@@ -7,6 +7,7 @@
   cursor: pointer;
   transition: 0.2s all;
   border-radius: 1rem;
+  margin: 4px 0;
 }
 
 .myBtn:hover {
